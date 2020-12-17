@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi buddy! 👋
+- - -
+Coding is an excellent creative ability, and it's art.
 
-<!--
-**lang-yao/lang-yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automatic program saves many time. So that we have enough time to create world. I'm crazy about this.
 
-Here are some ideas to get you started:
+I was so lucky that i had select computer science when i began my college life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![YaoLang's github stats](https://github-readme-stats.vercel.app/api?username=lang-yao)](https://github.com/lang-yao/github-readme-stats)
+
+:blush:Here's my [blog](https://www.xiaodejiyi.com). 
+
+https://www.xiaodejiyi.com
+
