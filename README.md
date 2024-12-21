@@ -8,7 +8,5 @@ I was so lucky that i had select computer science when i began my college life.
 
 [![YaoLang's github stats](https://github-readme-stats.vercel.app/api?username=lang-yao)](https://github.com/lang-yao/)
 
-:blush:Here's my [blog](https://www.xiaodejiyi.com). 
 
-https://www.xiaodejiyi.com
 
